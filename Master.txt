@@ -4,5 +4,8 @@
 
 <Version: 1.4>
 /data/Map001.json https://raw.githubusercontent.com/Horizons222/UpdateForProject/main/Map001.json
-/data/Map002.json
-
+/data/Map002.json https://raw.githubusercontent.com/Horizons222/UpdateForProject/main/Map002.json
+/data/Map003.json https://raw.githubusercontent.com/Horizons222/UpdateForProject/main/Map003.json
+/data/MapInfos.json https://raw.githubusercontent.com/Horizons222/UpdateForProject/main/MapInfos.json
+/data/System.json https://raw.githubusercontent.com/Horizons222/UpdateForProject/main/System.json
+<End of Version>
