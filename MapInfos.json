@@ -1,0 +1,6 @@
+[
+null,
+{"id":1,"expanded":true,"name":"Mapa del mon","order":1,"parentId":0,"scrollX":819,"scrollY":445.5},
+{"id":2,"expanded":false,"name":"Montanya gelada interior","order":2,"parentId":1,"scrollX":832,"scrollY":640},
+{"id":3,"expanded":false,"name":"Torre abandonada","order":3,"parentId":1,"scrollX":819,"scrollY":445.5}
+]
